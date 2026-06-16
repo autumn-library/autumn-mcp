@@ -5,7 +5,7 @@
 
 
 Описание.Имя("autumn-mcp")
-        .Версия("1.0.2")
+        .Версия("1.1.0")
         .Автор("Stanislav Kosolapov")
         .АдресАвтора("https://github.com/proDOOMman")
         .АдресРепозитория("https://github.com/autumn-library/autumn-mcp")
