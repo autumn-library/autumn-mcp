@@ -5,7 +5,7 @@
 
 
 Описание.Имя("autumn-mcp")
-        .Версия("1.1.1")
+        .Версия("1.1.2")
         .Автор("Stanislav Kosolapov")
         .АдресАвтора("https://github.com/proDOOMman")
         .АдресРепозитория("https://github.com/autumn-library/autumn-mcp")
@@ -14,5 +14,4 @@
         .ВключитьФайл("src")
         .ЗависитОт("autumn", "4.3.11")
         .ЗависитОт("decorator", "2.0.4")
-        .ЗависитОт("json", "1.1.1")
         ;
